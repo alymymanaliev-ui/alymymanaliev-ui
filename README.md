@@ -10,7 +10,7 @@
 <img src="./banner.svg" alt="Animated GitHub Banner" width="100%"/>
 
 <!-- Большой заголовок -->
-<h1>🚀 Привет! Я <strong>Алымбек Ы</strong> — делаю крутые сайты</h1>
+<h1>🚀 Привет! Я <strong>Алымбек</strong> — делаю крутые сайты</h1>
 
 <!-- Быстрые бейджи -->
 <a href="https://github.com/USERNAME">
@@ -50,8 +50,8 @@
 
 ## 📊 Статистика
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAMEshow_icons=truetheme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAMEtheme=radical" />
 </div>
 
 ## 🗂 Репозитории (пины)
@@ -66,8 +66,8 @@
 
 ## 🧭 Навигация
 - 🔗 Профиль: https://github.com/USERNAME  
-- ✉️ Email: hello@example.com  
-- 💬 Telegram: @yournickname
+- ✉️ Email: alym  
+- 💬 Telegram: @alym001
 
 ---
 
